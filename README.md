@@ -43,3 +43,7 @@ ds = load_dataset("DaniilOr/SemEval-2026-Task13", "A")
 | `label` | 0 (human) or 1 (machine) |
 | `language` | Programming language |
 | `generator` | Source of the code |
+
+
+### KAGGLE ID
+DRAGON_AI_MASTER
